@@ -1,0 +1,7 @@
+>>> work
+
+1. Slider
+2. Blogs
+3. Gallery
+4. About Us
+5. General settings
