@@ -42,7 +42,7 @@
 
                 </ul>
                 <ul class="vs-footer__menu--list">
-                    <li><a href="/contact-us">Donate</a></li>
+                    {{-- <li><a href="/contact-us">Donate</a></li> --}}
                   <li><a href="/about-us">Options</a></li>
                   <li><a href="/about-us">Help center</a></li>
                 </ul>
